@@ -1,0 +1,1248 @@
+{
+  "specialties": {
+    "Bone Marrow <br>Transplant": {
+      "img": "img/specialties/bone.svg",
+      "name": "Bone Marrow Transplant",
+      "tag": "Max Department of Bone Marrow Transplant delivers the best possible outcomes and provides cure to variety of Blood diseases and bone marrow cancers.",
+      "description": "Our state of the art High-Efficiency Particulate Air filtered Bone Marrow Transplant unit offers stem cell transplantation for both benign and malignant conditions in children and adults.",
+      "treatments": {
+        "Kinds of Bone Marrow Transplants": {
+          "description": "Bone Marrow Transplantation or BMT is typically a medical procedure done to introduce healthy bone marrow cells as a replacement to the damaged bone marrow. Bone marrow is a soft spongy tissue inside the bone. The new blood cells are formed from certain immature cells existing inside the bone marrow and these immature cells are known as stem cells.",
+          "Kinds of Bone Marrow Transplants": {
+            "points": [
+              "<strong>Autologous bone marrow transplant:</strong><br>The term auto means self. Stem cells are removed from you before you receive high-dose chemotherapy or radiation treatment. The stem cells are stored in a freezer (cryopreservation). After high-dose chemotherapy or radiation treatments, your stems cells are put back in your body to make (regenerate) normal blood cells. This is called a rescue transplant.",
+              "<strong>Allogeneic bone marrow transplant:</strong><br>The term allo means other. Stem cells are removed from another person, called a donor. Most times, the donor's genes must at least partly match your genes. Special blood tests are done to see if a donor is a good match for you. A brother or sister is most likely to be a good match. Sometimes parents, children, and other relatives are good matches. Donors who are not related to you may be found through national bone marrow registries.",
+              "<strong>Umbilical cord blood transplant:</strong><br>This is a type of allogeneic transplant. Stem cells are removed from a newborn baby's umbilical cord right after birth. The stem cells are frozen and stored until they are needed for a transplant. Umbilical cord blood cells are very immature so there is less of a need for matching. But blood counts take much longer to recover.",
+              "<strong>Haploidentical Bone Marrow transplant:</strong><br>This procedure is done when the donor and recipients do not have full match. This can be done by collecting stem cells from mother, father or brothers and sisters."
+            ]
+          }
+        },
+        "Diseases treated at Heamatology Division": {
+          "description": "The Department of Haematology and Bone Marrow Transplant at Max Healthcare offers state-of-the-art therapies for autologous, allogeneic, unrelated and mismatched and all kinds of bone marrow transplants. Backed by internationally trained Haematologists, the department has great expertise in treating both paediatric and adult patients with benign and malignant Haematological disorders of blood and bone marrow.<br>Max Healthcare's state of the art HEPA (High-Efficiency Particulate Air) filtered Bone Marrow Transplant unit offers stem cell transplantation for both benign and malignant conditions in children and adults. Max Healthcare also boasts of a superb haematopathology back-up with state-of-the-art instruments including the most advanced flowcytometry machine. Our blood bank is well equipped with all therapeutic procedures including component support, platelet apheresis, plasmapheresis, leukapheresis and stem cell harvest.",
+          "Diseases treated at Heamatology Division": {
+            "points": [
+              "Blood cancer (Leukaemia, Lymphoma, Multiple Myeloma, Chronic Lymphocytic Leukemia, Hairy Cell Leukaemia)",
+              "Myelodysplastic syndrome",
+              "Anaemia-Thalassemia, Sickle Cell Disease, other Haemoglobinopathies, Iron deficiency or Megaloblastic anaemia, Haemolytic anaemia",
+              "Bone marrow failure syndromes (Aplastic anaemia, Fanconi's anaemia, Pure red cell aplasia)",
+              "Bleeding disorders (Haemophilia, ITP, Platelet function defects including von Willebrand disease)",
+              "Clotting disorder (Deep vein thrombosis)",
+              "Miscellaneous - Hemochromatosis, Hemophagocytic lymphohistiocytosis, Antiphospholipid antibody syndrome, Langerhan cell histiocytosis"
+            ]
+          }
+        }
+      },
+      "team": {
+        "names": [
+          "Dr Rahul Naithani"
+        ],
+        "designations": [
+          "Consultant-Bone Marrow/Stem Cell Transplantation & Clinical Haematology"
+        ],
+        "profiles": [
+          "coming-soon.html"
+        ]
+      }
+    },
+    "Cardiac Sciences": {
+      "img": "img/specialties/cardiac.svg",
+      "name": "Cardiac Sciences",
+      "tag": "Max Department of Cardiac Sciences strives to provide the patients with expert treatment and care.",
+      "description": "We believe in offering the patients with an ethical and open environment to recover. Our team of experts believes in carrying out an in-depth investigation of the patient condition taking into account patient’s complete medical history therefore strategizing a tailored treatment and cost-effective recovery plan for each.",
+      "treatments": {
+        "Hypertension": {
+          "description": "Hypertension or High blood pressure is a chronic medical condition in which the blood pressure in the arteries increases. This requires the heart to work harder than usual to circulate blood through the blood vessels. Blood pressure is determined by two measurements, systolic and diastolic, which depend on whether the heart muscle is contracting (systole) or relaxing between beats (diastole). Normal blood pressure at rest is within the range of 100-140mmHg systolic (top reading) and 60-90mmHg diastolic (bottom reading). High blood pressure is said to be present if it is persistently at or above 140/90 mmHg. Hypertension is a major risk factor for stroke, myocardial infarction (heart attacks), heart failure, aneurysms of the arteries (e.g. aortic aneurysm), and peripheral arterial disease.",
+          "Signs and Symptoms": {
+            "description": "In today's hectic lifestyle, a large number of people are suffering from high blood pressure. Most of the time, high blood pressure goes untreated and damages arteries and vital organs throughout the body. This is why it is called the 'silent killer'. Some of the most common symptoms are:",
+            "points": [
+              "Headache",
+              "Dizziness",
+              "Blurred Vision",
+              "Nausea and vomiting",
+              "Chest paint and shortness of breath"
+            ]
+          },
+          "Causes": {
+            "description": "In most of the cases, the cause of high blood pressure is not known and is often referred to as primary or essential hypertension. However, some major causes of high blood pressure include:",
+            "points": [
+              "Age",
+              "Family history",
+              "Obesity",
+              "Alcohol consumption",
+              "Lack of exercise",
+              "Medications",
+              "Young patients can have high BP due to kidney disease"
+            ]
+          },
+          "Treatment": {
+            "description": "The best treatment for high blood pressure is to make healthy changes to your lifestyle. One needs to take a stepwise approach beginning with diet, weight loss, and lifestyle changes along with medications as required.",
+            "points": [
+              "Medications",
+              "Avoid tobacco smoke",
+              "Maintain a healthy weight",
+              "Take a healthy diet",
+              "Limit your salt intake",
+              "Do regular physical activity"
+            ]
+          }
+        },
+        "Diabetes": {
+          "description": "The most common misconception is that sugar causes diabetes. Watching out sugar intake becomes important only if you've been diagnosed with diabetes. However, if you do not have diabetes, sugar intake will not cause diabetes.<br>Diabetes is an illness which occurs as a result of problems with the production and supply of insulin in the body. Most of the food we eat is turned into glucose, a form of sugar. We use glucose as a source of energy to provide power to the muscles and other tissues. If left untreated, diabetes can lead to serious heart problems such as cardiovascular disease (CVD), or heart disease, including peripheral artery disease (PAD) and stroke.",
+          "Signs and Symptoms": {
+            "points": [
+              "Increased or extreme thirst",
+              "Increased appetite",
+              "Increased fatigue",
+              "Unusual weight loss",
+              "Blurred vision",
+              "Sores that do not heal"
+            ]
+          },
+          "Causes": {
+            "points": [
+              "High-fat diet",
+              "High alcohol intake",
+              "Sedentary lifestyle",
+              "Obesity, or being overweight",
+              "Aging",
+              "Family history"
+            ]
+          },
+          "Treatment": {
+            "description": "If anyone is suffering from diabetes, the very first thing he or she needs to do is to make changes in diet, exercise and other health habits. It is a kind of disease which cannot be cured except in very specific situations. The primary objective of any diabetes treatment is to keep your blood sugar level as close to normal. The treatment procedures include:",
+            "points": [
+              "Lifestyle changes",
+              "Medications including Metformin and Insulin",
+              "Physical activity on daily basis"
+            ]
+          }
+        },
+        "Cholesterol": {
+          "description": "Cholesterol is a type of fat, one which is a major building block of various substances including the cell membrane of every cell in our body, digestive juices released by the gall bladder and the sex hormones. Not all cholesterol is bad. We need some cholesterol for our bodily functions and the liver can make that easily in our body. But the problem starts when the level goes beyond necessary. High cholesterol is one of the major controllable risk factors for coronary heart disease, heart attack, and stroke. The higher your blood cholesterol is, the greater your chance of developing coronary heart disease.",
+          "Signs and Symptoms": {
+            "description": "Most of the times there are no symptoms and this is the reason why it is advised to get your cholesterol levels checked by a doctor regularly. People who do not suffer from any heart disease or high cholesterol; it is recommended that the level be checked every 2 years."
+          },
+          "Causes": {
+            "description": "Like high blood pressure, high cholesterol itself is not a disease, but a condition that can lead to some very important consequences-",
+            "points": [
+              "Diseases like diabetes, some forms of thyroid, liver, and kidney diseases cause high cholesterol.",
+              "It's also most frequently caused by a combination of diet and genetic factors.",
+              "Even patients with great genes for cholesterol metabolism can overwhelm the system by pursuing an inactive lifestyle, gaining an imprudent amount of weight, and eating a high fat diet."
+            ]
+          },
+          "Treatment": {
+            "points": [
+              "High blood cholesterol is primarily treated with lifestyle changes and medicines. The major objective of treatment is to lower your low-density lipoprotein (LDL) cholesterol level enough to reduce your risk for coronary heart disease, heart attack, and other related health problems.",
+              "Consuming whole-grain cereals such as oatmeal and oat bran, fruits such as apples, bananas, oranges, pears, and prunes, legumes such as kidney beans, lentils, chick peas, black-eyed peas, and lima beans",
+              "Including daily physical activity such as walking, running, swimming etc.",
+              "Maintaining low weight can help lower cholesterol",
+              "Consumption of drugs like STATINs"
+            ]
+          }
+        },
+        "Arrhythmia": {
+          "description": "Cardiac dysrhythmia (also known as arrhythmia and irregular heartbeat) is a condition in which there is abnormal electrical activity in the heart. The heartbeat may be too fast or too slow, which is considered as irregular. When a heart beats too fast, it is called tachycardia; when it becomes too slow, it is called bradycardia. If not managed properly, these heart palpitations can sometimes result in cardiac arrest.",
+          "Signs and Symptoms": {
+            "description": "At first, most of the patients may have no symptoms at all. Only a doctor can detect a sign of arrhythmia during a health examination. Even if a patient notices symptoms, it does not necessarily mean there is a serious problem. Ironically, some patients with life-threatening arrhythmias may have no symptoms, while others with symptoms may not have a serious problem. Some of the most common symptoms of arrhythmia are:",
+            "points": [
+              "Breathlessness",
+              "Dizziness",
+              "Syncope (fainting, or near-fainting)",
+              "Fluttering in the chest",
+              "Lightheadedness",
+              "Sudden weakness",
+              "Angina (chest pain)",
+              "Concentration problems",
+              "Confusion",
+              "Difficulties when exercising"
+            ]
+          },
+          "Causes": {
+            "description": "There is no single cause for this. Many things can lead to, or cause, an arrhythmia, including:",
+            "points": [
+              "Anxiety, stress, fear, panic",
+              "Exercise",
+              "Pregnancy",
+              "Caffeine found in coffee, tea, chocolate, colas, some sports drinks",
+              "Certain medical conditions: overactive thyroid, low blood sugar, low potassium level, low oxygen level or low carbon dioxide level in the blood, fever, anemia, dehydration, loss of blood, shock",
+              "Certain medications: asthma inhalers and decongestants, beta blockers (taken for high blood pressure or heart disease), thyroid and anti-arrhythmic medications, and some medications that act as stimulants, such as cough and cold medicines, and some herbal or nutritional supplements",
+              "Illegal street drugs: cocaine and amphetamines (speed)",
+              "Nicotine found in tobacco products"
+            ]
+          },
+          "Treatment": {
+            "description": "Most arrhythmias are considered harmless and left untreated. After your doctor determines that you have arrhythmia, he checks its severity whether it's abnormal or a regular heart process. If your arrhythmia is abnormal and clinically significant, your doctor will set a treatment plan. Below are the treatment options available to treat arrhythmia:",
+            "points": [
+              "Anti-arrhythmics",
+              "Automated External Defibrillator",
+              "Calcium Channel Blockers",
+              "Cardioversion",
+              "Catheter Ablation"
+            ]
+          }
+        },
+        "Heart Failure": {
+          "description": "Heart failure means the heart is weakened and unable to pump enough blood to supply the body's needs.",
+          "Signs and Symptoms": {
+            "points": [
+              "Fatigue",
+              "Activities limited",
+              "Chest congestion",
+              "Edema or ankle swelling",
+              "Shortness of breath"
+            ]
+          },
+          "The candidates for heart transplant": {
+            "points": [
+              "Patient already undergone other cardiac surgery like CABG or valve replacement and Still Symptomatic.",
+              "Patient has weak heart like Dilated Cardiomayopathy or restrictive CMP and Low Ejection Fraction.",
+              "Other surgeries can not give benefit like CABG or Valve replacement."
+            ]
+          },
+          "When to go for transplant": {
+            "points": [
+              "Patients should receive maximal medical therapy before being considered for transplantation.",
+              "Patient should also be considered for alternative surgical therapies including CABG, valve repair / replacement, cardiac septalplasty, etc.",
+              "Transplant is the only option for greatest survival benefit.",
+              "Other is LVAD (Left ventricular assist device) if heart is not available for transplant."
+            ]
+          },
+          "Treatment": {
+            "description": "LVAD - Left ventricular assist device<br>The left ventricular assist device, LVAD helps the heart pump oxygen-rich blood throughout the body. Heart is not replaced by LVAD as it is a mechanical device which pumps the blood and restores the normal blood flow to a person whose heart has been weakened."
+          }
+        },
+        "Heart Attack": {
+          "description": "A heart attack (Myocardial Infarction (MI) or Acute Myocardial Infarction (AMI)) is the interruption of blood supply to a part of the heart which causes heart cells to die. It generally occurs when a blood clot completely obstructs a coronary artery supplying blood to the heart muscle. The blood clot that causes the heart attack usually forms at the site of rupture of an atherosclerotic, cholesterol plaque on the inner wall of a coronary artery. The most common symptom of heart attack is chest pain. The risk factors for heart attack include high cholesterol levels, elevated blood pressure, tobacco use, diabetes, male gender, and a family history of heart attacks at an early age.",
+          "Signs and Symptoms": {
+            "description": "Although chest pain is the most common symptom of a heart attack, there are a variety of symptoms including:",
+            "points": [
+              "Pain, fullness, or squeezing sensation of the chest",
+              "Jaw paint, toothache, headache",
+              "Shortness of breath",
+              "Nausea, vomiting",
+              "Sweating",
+              "Heartburn",
+              "Arm pain"
+            ]
+          },
+          "Causes": {
+            "description": "A heart attack happens due to the sudden blockage of the coronary artery carrying oxygen-rich blood to a section of heart. Most heart attacks occur as a result of coronary heart disease (CHD). The most common causes of heart attack include:",
+            "points": [
+              "Coronary Atherothrombosis",
+              "Intake of certain drugs, such as cocaine",
+              "Emotional stress or pain",
+              "Exposure to extreme cold",
+              "Cigarette smoking"
+            ]
+          },
+          "Treatment": {
+            "description": "The treatment for a heart attack should start as early as possible in order to ensure minimum damage to heart and brain. In most of the cases, medical professionals begin diagnosis and treatment even before the patient gets to the hospital. Treatment procedures for heart attack include:",
+            "points": [
+              "Primary PTCA (Ballooning of occluded artery) is the treatment of choice for heart attack.",
+              "Oxygen Therapy is a kind of therapy that provides patient with extra oxygen, which in turn helps his body to work well. Oxygen is supplied to lungs through nasal cannula, face mask, or a small tube inserted into your windpipe.",
+              "Aspirin is given immediately after a heart attack to reduce the risk of another heart attack or of the death of cardiac tissue.",
+              "Nitroglycerin is given to reduce your heart's workload and improve blood flow through the coronary arteries.",
+              "Medicines such as Beta blockers, ACE inhibitors, Anticoagulants, Anticlotting medicines etc.",
+              "Coronary artery bypass grafting (CABG) is used to treat heart attack in which a surgeon removes a healthy artery or vein from the body and connects it to the blocked vein or artery.",
+              "Angioplasty is a non-surgical procedure which aims at the opening of blocked or narrowed coronary arteries. This procedure is also called percutaneous (per-ku-TA-ne-us) coronary intervention, or PCI."
+            ]
+          }
+        }
+      },
+      "team": {
+        "names": [
+          "Dr K K Talwar",
+          "Dr Rajneesh Malhotra",
+          "Dr Kulbhushan Singh Dagar",
+          "Dr Kewal Krishan",
+          "Dr Rajneesh Malhotra",
+          "Dr Kulbhushan Singh Dagar"
+        ],
+        "designations": [
+          "Chairman - Cardiology, Max Healthcare",
+          "CTVS",
+          "Head & Senior Consultant",
+          "Sr. Consultant - CTVS Program In-charge – Heart Transplant & Ventricular Assist Devices",
+          "Chief - Cardiac Surgery (CTVS)",
+          "Head & Senior Consultant - Cardiac Surgery (CTVS)"
+        ],
+        "profiles": [
+          "coming-soon.html",
+          "coming-soon.html",
+          "coming-soon.html",
+          "coming-soon.html",
+          "coming-soon.html",
+          "coming-soon.html"
+        ]
+      }
+    },
+    "Minimal Access &amp;<br> Laparoscopic Surgery": {
+      "img": "img/specialties/minimal.svg",
+      "name": "Minimal Access & Laparoscopic Surgery",
+      "tag": "Surgeons of Excellence, Surgical Review Corporation",
+      "description": "The Department of General and Minimally Invasive Surgery is a full-fledged healthcare facility providing complete evaluation, diagnosis, and surgical treatment for a wide variety of disorders. The department uses an integrated approach to deliver superb care and compassion. Max Healthcare uses the most advanced minimally invasive surgical innovations and technology to cure the patients.",
+      "treatments": {
+        "Gastroesophageal reflux": {
+          "description": "Gastroesophageal reflux disease (GERD) is a condition in which the stomach contents leak backwards from the stomach into the esophagus (the tube from the mouth to the stomach). This can irritate the esophagus and cause heartburn and other symptoms.",
+          "Signs and Symptoms": {
+            "points": [
+              "Heartburn or burning pain in the chest",
+              "Nausea after eating",
+              "Cough or wheezing",
+              "Sore throat",
+              "Hiccups",
+              "Feeling that food is stuck behind the breastbone"
+            ]
+          },
+          "Causes": {
+            "points": [
+              "Alcohol (possibly)",
+              "Obesity",
+              "Pregnancy",
+              "Smoking",
+              "Scleroderma",
+              "Hiatal Hernia"
+            ]
+          },
+          "Treatment": {
+            "points": [
+              "The best way to treat acid reflux is to make certain lifestyle changes. Avoid foods that cause problems for you. Your doctor may suggest antacids after meals and at bedtime.",
+              "When medicines seem to show no positive outcomes, GERD surgery may be needed. The Department of General and Minimally Invasive Surgery has renowned surgeons who are expert in performing this type of surgery. The main surgery performed for consistent heartburn is called fundoplication. In laparoscopic fundoplication, the surgeon operates from outside the body using tools inserted into the abdomen. During open fundoplication, he or she operates directly using his or her hands.",
+              "This laparoscopy surgery requires a shorter recovery time with less pain compared to open surgery."
+            ]
+          }
+        },
+        "Hemorrhoids": {
+          "description": "Hemorrhoids are typically vascular structures in the anal canal which help with stool control. They became pathological or piles, when swollen or inflamed. They become swollen due to increased pressure within them, usually due to straining at stools and during pregnancy because of the pressure of the enlarged uterus.",
+          "Signs and Symptoms": {
+            "points": [
+              "Painless bleeding",
+              "Bright red blood on the outside of the stools",
+              "Dripping into the toilet"
+            ]
+          },
+          "Causes": {
+            "description": "Hemorrhoids are associated with constipation and straining at bowel movements. The exact cause of symptomatic hemorrhoids is not known. Some common causes are:",
+            "points": [
+              "Lack of exercise",
+              "Constipation",
+              "Pregnancy",
+              "Genetics",
+              "Chronic cough",
+              "Prolonged sitting",
+              "Obesity"
+            ]
+          },
+          "treatment": {
+            "description": "Most of the hemorrhoids can be treated at home.",
+            "points": [
+              "Sitting in few inches of warm water thrice a day for 15-20 minutes may help decrease the inflammation of the hemorrhoids. It is important to dry off the anal area completely after each Sitting and bath to minimize irritation of the skin surrounding the anus.",
+              "Dietary changes – It is advised to include fibre-rich food in diet and it reduces the pressure on the rectum and anus during a bowel movement, minimize further swelling, discomfort, and bleeding.",
+              "Many creams, ointments, and suppositories are available for symptom relief and may be used for comfort.",
+              "A number of office based procedures may be done such as rubber band ligation, sclerotherapy, etc."
+            ]
+          }
+        },
+        "Hernia": {
+          "description": "A hernia is generally a sac formed by the lining of the abdominal cavity (peritoneum). There are different types of hernia, each requiring a specific treatment or management. The most common type of hernia develops in abdomen due to weak abdominal walls.",
+          "Kinds of Hernia": {
+            "description": "Hernias can be found in different areas as follows:",
+            "points": [
+              "Groin - a femoral hernia gives a bulge just below the groin (more common in women); an inguinal hernia (more common in men) is a bulge in the groin that may reach the scrotum.",
+              "Upper part of the stomach - hiatal or hiatus hernia is the upper part of the stomach pushing up out of the abdominal cavity and into the chest cavity via an opening in the diaphragm.",
+              "Belly button - a bulge around here is produced by an umbilical hernia.",
+              "Surgical scar - past abdominal surgery can lead to an incisional hernia through the operational scar."
+            ]
+          },
+          "Signs and Symptoms": {
+            "description": "Most often there are no symptoms. The most common symptom is abdominal discomfort and pain. The intensity of discomfort increases when you stand, strain, or lift heavy objects. The best way to detect hernia is to visit a health care professional who can easily diagnose it through a physical inspection."
+          },
+          "Causes": {
+            "description": "Certain activities and medical problems raise pressure on the abdominal wall and can lead to a hernia, including:",
+            "points": [
+              "Straining on the toilet, for example because of long-term constipation",
+              "Long-term cough",
+              "Cystic fibrosis",
+              "Enlarged prostate",
+              "Straining to urinate",
+              "Being overweight or obese",
+              "Abdominal fluid",
+              "Lifting heavy items",
+              "Peritoneal dialysis",
+              "Poor nutrition",
+              "Smoking",
+              "Physical exertion"
+            ]
+          },
+          "Treatment": {
+            "description": "According to experts, surgery is the only treatment available that can ensure permanent relief from hernia. One important thing to remember is that hernia surgery may be more risky for patients with severe medical problems.<br>Surgical option is considered only in following conditions:",
+            "points": [
+              "Hernias are getting larger",
+              "Painful",
+              "Cannot be treated without surgery",
+              "May involve a trapped piece of bowel"
+            ]
+          }
+        }
+      },
+      "team": {
+        "names": [
+          "Dr Ashish Vashishtha"
+        ],
+        "designations": [
+          "Head of the Department - General Surgery"
+        ],
+        "profiles": [
+          "coming-soon.html"
+        ]
+      }
+    },
+    "In-Vitro <br>Fertilization": {
+      "img": "img/specialties/obstetrics.svg",
+      "name": "In-Vitro Fertilization",
+      "tag": "A preferred choice for couples with recurrent failures and complex fertility cases",
+      "description": "Infertility is the inability to conceive after a year of trying. Both men and women have equal likelihood of suffering from infertility. Infertility is also increasingly being linked to increased work stress, hectic and fast paced imbalanced urban lifestyle, environmental toxins and delayed age at marriage.<br>Max Healthcare is one of the best clinics for infertility treatment, IVF treatment and assisted reproduction. The IVF centre is backed by world-class technology and professional care, available at an affordable cost.",
+      "treatments": {
+        "Assisted Reproduction Techniques": {
+          "description": "<b>Intrauterine Insemination (IUI)<b><br>Intrauterine insemination (IUI) involves a laboratory procedure to separate fast moving sperm from more sluggish or non-moving sperm.The fast moving sperm are then placed into the woman’s womb close to the time of ovulation when the egg is released from the ovary in the middle of the monthly cycle.<br><br><b>In-vitro Fertilization (IVF)</b></br>In Vitro Fertilization is a one assisted reproductive technology (ART) commonly referred to as IVF. IVF is the process of fertilization by manually combining an egg and sperm in a laboratory dish, and then transferring the embryo to the uterus.<br><br><b>Intra Cytoplasmic Sperm Injection</b><br>ICSI is the most successful form of treatment for men who are infertile and is used in nearly half of all IVF treatments. ICSI only requires one sperm, which is injected directly into the egg. The fertilised egg (embryo) is then transferred to your uterus (womb).",
+          "Why is IVF used?": {
+            "description": "IVF can be used to treat infertility with the following patients:",
+            "points": [
+              "Blocked or damaged fallopian tubes",
+              "Male factor infertility including decreased sperm count or sperm motility",
+              "Women with ovulation disorders, premature ovarian failure, uterine fibroids",
+              "Women who have had their fallopian tubes removed",
+              "Individuals with a genetic disorder",
+              "Unexplained infertility"
+            ]
+          },
+          "Steps involved in IVF": {
+            "points": [
+              "Monitor and stimulate the development of healthy egg(s) in the ovaries",
+              "Collect the eggs",
+              "Secure the sperm",
+              "Combine the eggs and sperm together in the laboratory and provide the appropriate environment for fertilization and early embryo growth",
+              "Transfer embryos into the uterus"
+            ]
+          }
+        },
+        "Assissted Hatching": {
+          "description": "Assisted Hatching is a new lab technique that was developed when fertility experts observed that embryos with a thin egg shell layer had a higher rate of implantation during IVF. In assisted hatching, an embryologist uses micromanipulation under a microscope to create a small hole in the outer egg shell layer (zona pellucida). This is done either by drilling a hole through it or by thinning it, which promotes hatching or implantation of embryos that are unable to escape intact from eggs’ outer covering.<br>Max Healthcare offers the latest advancement in assisted hatching using laser. Mechanical and chemical hatching are also possible."
+        },
+        "Blastocyst Transfer": {
+          "description": "Embryos can be cultured for up to six days, until they become blastocysts. At this stage it may be easier to select the best quality embryo(s). With blastocyst transfer, embryos are cultured in the laboratory incubator to the blastocyst stage before they are transferred to the womb. At this time, one or two of the best quality blastocysts are selected and then implanted into the woman’s womb. A blastocyst must successfully attach itself to the wall of the womb for a woman to become pregnant."
+        },
+        "Optical Spindle": {
+          "description": "This ensures a safe ICSI that prevents DNA damage at the time of sperm needle injection; thereby, increasing the pregnancy rate. Also, quantification of eggs’ outer covering thickness can help assess further techniques to increase pregnancy rate."
+        },
+        "Surgical Sperm Removal": {
+          "description": "Absence of sperms in ejaculate or absent ejaculate needs intervention under anaesthesia to obtain sperms by any of the following:<ul><li>Micro surgical epididymal sperm aspiration (MESA)</li><li>Percutaneous epididymal sperm aspiration (PESA)</li><li>Testicular sperm aspiration (TESA)</li><li>Testicular sperm extraction (TESE) (Testicular biopsy)</li></ul>"
+        }
+      },
+      "team": {
+        "names": [
+          "Dr. Surveen Ghumman Sindhu",
+          "Dr. Bhavna Banga"
+        ],
+        "designations": [
+          "Director & Head - IVF",
+          "Consultant - Infertility & IVF"
+        ],
+        "profiles": [
+          "coming-soon.html",
+          "coming-soon.html"
+        ]
+      },
+      "testimonials": [
+        "https://www.youtube.com/v/wP9qMs8leAU"
+      ]
+    },
+    "Urology &amp; Kidney<br>Transplant": {
+      "img": "img/specialties/urology.svg",
+      "name": "Urology & Kidney Transplant",
+      "tag": "Max Department of Kidney Transplant strives to provide the patients with expert treatment and care by overcoming blood barriers to give you a new lease of life.",
+      "description": "A kidney transplant is a surgical procedure performed to replace a diseased kidney with a healthy kidney from another person. The kidney may come from a deceased organ donor or from a living donor. Family members or individuals who are unrelated but make a good match may be able to donate one of their kidneys. This type of transplant is called a living transplant. Individuals who donate a kidney can live healthy lives with the remaining kidney.<br>A person receiving a transplant usually receives only one kidney, but, in rare situations, he or she may receive two kidneys from a deceased donor. In most cases, the diseased kidneys are left in place during the transplant procedure. The transplanted kidney is implanted in the lower abdomen on the front side of the body.",
+      "treatments": {
+        "How do the Kidneys work?": {
+          "description": "There are two kidneys, each about the size of a fist, located on either side of the spine at the lowest level of the rib cage. Each kidney contains up to a million functioning units called nephrons. A nephron consists of a filtering unit of tiny blood vessels called a glomerulus attached to a tubule. When blood enters the glomerulus, it is filtered and the remaining fluid then passes along the tubule. In the tubule, chemicals and water are either added to or removed from this filtered fluid according to the body's needs, the final product being the urine we excrete.",
+          "Functions of Kidneys": {
+            "description": "The kidneys are powerful chemical factories that perform the following functions:",
+            "points": [
+              "remove waste products from the body",
+              "remove drugs from the body",
+              "balance the body's fluids",
+              "release hormones that regulate blood pressure",
+              "produce an active form of vitamin D that promotes strong, healthy bones",
+              "control the production of red blood cells"
+            ]
+          }
+        },
+        "Investigations before Transplant": {
+          "description": "Blood tests<br>Blood tests are performed to help determine a good donor match, to assess your priority on the donor list, and to help improve the chances that the donor organ will not be rejected.<br><br>Diagnostic tests<br>Diagnostic tests may be performed to assess your kidneys as well as your overall health status. These tests may include X-rays, ultrasound procedures, kidney biopsy, and dental examinations. Women may receive a Pap test, gynaecology evaluation, and a mammogram. The transplant team will consider all information from interviews, your medical history, physical examination, and diagnostic tests in determining your eligibility for kidney transplantation. The potential donor must have a compatible blood type and be in good health. A psychological test will be conducted to ensure the donor is comfortable with the decision."
+        }
+      },
+      "team": {
+        "names": [
+          "Dr Dinesh Khullar",
+          "Dr Anant Kumar"
+        ],
+        "designations": [
+          "Director & Head of the Department - Nephrology & Kidney Transplant Medicine",
+          "Director - Urology & Kidney Transplant"
+        ],
+        "profiles": [
+          "coming-soon.html",
+          "coming-soon.html"
+        ]
+      }
+    },
+    "Neurosciences": {
+      "img": "img/specialties/neuro.svg",
+      "name": "Neurosciences",
+      "tag": "Max Institute of Neurosciences - Offering the most advanced treatment developed & individualized just for you!",
+      "description": "Neurosciences is designed to provide the highest levels of professional expertise and leadership in all major disciplines of neurosciences/neurosurgery through an integrated team of neurologists dedicated towards providing total patient care.<br>The Institute boasts of high-end technology, including the first integrated Brain SUITE (most advanced neuro-surgical operating room with high field MR), the first of its kind in Asia-Pacific.",
+      "treatments": {
+        "Brain Tumor": {
+          "description": "A brain tumor is defined as an abnormal growth of cells within the brain or the skull vault. Brain tumors include all tumors inside the cranium. They are created by an abnormal and uncontrolled cell division, usually in the brain itself, but also sometimes in lymphatic tissue, in blood vessels, in the cranial nerves, in the brain envelopes (meninges), skull, pituitary gland, or pineal gland and from congenital vest cells.<br>There are two main types of tumors: malignant or cancerous tumors and benign tumors. Cancerous tumors can be divided into primary tumors that started within the brain and those that spread from somewhere else known as brain metastasis tumors.",
+          "Signs & Symptoms": {
+            "points": [
+              "Changes in person’s mental function",
+              "Headaches",
+              "Weakness in one part of the body",
+              "Seizures (especially in older adults)",
+              "Vision problems",
+              "Difficulty swallowing",
+              "Lack of control over the bladder or bowels",
+              "Difficulty writing or reading",
+              "Clumsiness",
+              "Personality, mood, behaviour, or emotional changes"
+            ]
+          },
+          "Causes": {
+            "description": "The cause of primary brain tumors is still unknown. There are many possible risk factors including:",
+            "points": [
+              "Radiation therapy to the brain, used to treat brain cancers, increases the risk for brain tumors up to 20 or 30 years afterwards.",
+              "Some inherited conditions increase the risk of brain tumors, including ineurofibromatosis, Von Hippel-Lindau syndrome, Li-Fraumeni syndrome, and Turcot syndrome.",
+              "Lymphomas that begin in the brain in people with a weakened immune system are sometimes linked to the Epstein-Barr virus."
+            ]
+          },
+          "Treatment": {
+            "description": "When a brain tumor is diagnosed, a medical team will be formed to assess the treatment options presented by the leading surgeon to the patient and his/her family. Given the location of primary solid neoplasms of the brain in most cases a 'do-nothing' option is usually not presented. Neurosurgeons take the time to observe the evolution of the neoplasm before proposing a management plan to the patient and his/her relatives. These various types of treatment are available depending on neoplasm type and location and may be combined to give the best chances of survival.",
+            "points": [
+              "Surgery: complete or partial resection of the tumor with the objective of removing as many tumor cells as possible. (Neurosurgery, endo-vascular surgery, brain surgery, spinal surgery, pediatric neurosurgery)",
+              "Radiotherapy: the most commonly used treatment for brain tumors; the tumor is irradiated with beta, x rays or gamma rays.",
+              "Chemotherapy: is a treatment option for cancer, however it is seldom used to treat brain tumors as the blood and brain barrier prevents the drugs from reaching the cancerous cells. Chemotherapy can be thought of as a poison that prevents the growth and division of all cells in the body including cancerous cells. This causes the significant side effects experienced by patients undergoing chemotherapy."
+            ]
+          }
+        },
+        "Stroke": {
+          "description": "The sudden death of some brain cells due to lack of oxygen when the blood flow to the brain is impaired by blockage or rupture of an artery to the brain. A stroke is also referred to as Cerebrovascular Accident (CVA).There are two major types of stroke: ischemic stroke and hemorrhagic stroke. Ischemic stroke occurs when a blood vessel that supplies blood to the brain is blocked by a blood clot. A hemorrhagic stroke occurs when a blood vessel in part of the brain becomes weak and bursts open, causing blood to leak into the brain.",
+          "Signs & Symptoms": {
+            "description": "The symptoms of stroke depend on what part of the brain is damaged. The most common symptoms include:",
+            "points": [
+              "Headaches",
+              "Changes in hearing ability",
+              "Confusion or loss of memory",
+              "Difficulty swallowing",
+              "Trouble walking",
+              "Muscle weakness in the face, arm, or leg (generally on one side)"
+            ]
+          },
+          "Causes": {
+            "description": "High BP is the most primary reason for strokes. The other risk factors include:",
+            "points": [
+              "Diabetes",
+              "Family history of stroke",
+              "High cholesterol",
+              "Aging, especially after age 55",
+              "Alcohol consumption",
+              "Smoking"
+            ]
+          },
+          "Treatment": {
+            "description": "Max Institute of Neurosciences provides complete management of stroke including primary stroke prevention, emergency management of stroke and after stroke management.",
+            "points": [
+              "Primary Stroke Prevention",
+              "Emergency Management of Stroke<ul><li>Thrombolytic Therapy of stroke using rt-Pa (the institute has the expertise of emergency Stroke imaging and experienced Stroke Neurologist) (Intra-arterial).</li><li>Neurointerventional therapy of selected cases of stroke with the help of Interventional Neuroadiologist.</li><li>Comprehensive treatment for hemorrhagic stroke available.</li></ul>",
+              "After Stroke Management<ul><li>This is performed in a dedicated 8-bedded sophisticated Stroke unit with the help of experienced Neurocritical care team.</li><li>Use of Inj Botulinum toxin for post stroke spasticity.</li></ul>",
+              "Stroke Rehabilitation<ul><li>Comprehensive neurorehabilitation and long-term, risk-factor modification programs are available through the Cerebrovascular Center in conjunction with the Department of Physical Medicine and Rehabilitation. Under the direction of Neurologist, patients learn to maximize their function and resume normal activities to the fullest extent possible.</li><li>Acute stroke therapies must be initiated within 4.5 hours after the onset of symptoms in order to be effective. The sooner acute Thrombolytic therapy is initiated, the greater the probability of limiting or reversing brain damage. Rapid access to these therapies is absolutely essential.</li></ul>"
+            ]
+          }
+        },
+        "Epilepsy": {
+          "description": "Epilepsy is a group of related disorders characterized by a tendency for recurrent seizures. There are different types of epilepsy and seizures. Epilepsy drugs are prescribed to control seizures, and rarely surgery is necessary if medications are ineffective.",
+          "Signs & Symptoms": {
+            "description": "The symptoms of epilepsy vary from person to person. The most common signs are:",
+            "points": [
+              "Staring spells",
+              "Loss of alertness",
+              "Strange sensation"
+            ]
+          },
+          "Causes": {
+            "description": "The most common causes of epilepsy include:",
+            "points": [
+              "Traumatic brain injury",
+              "Infections, including brain abscess, meningitis, encephalitis, and AIDS",
+              "Abnormal blood vessels in the brain",
+              "Brain tumor",
+              "Metabolism disorders present at birth"
+            ]
+          },
+          "Treatment": {
+            "description": "Epilepsy is usually controlled, or cured, with medication. At Max Institute of Neurosciences, we use the following programs to monitor and control Epilepsy:<br><br>Max Epilepsy Programme",
+            "points": [
+              "Max Institute of Neurosciences provides comprehensive and compassionate care to adults and children with seizure disorders. Our team of highly experienced doctors and surgeons strives to ensure best results that eventually bring good quality life to people.",
+              "The Epilepsy Program at Max Institute of Neurosciences is led by an epileptologist.",
+              "Get comprehensive evaluation, neurodiagnostic and treatment services including Counseling, Education, Customized treatment plans, Medication, Physical evaluations, and Psychological report."
+            ]
+          }
+        },
+        "Multiple Sclerosis": {
+          "description": "Multiple sclerosis (MS) involves an immune-mediated process in which an abnormal response of the body’s immune system is directed against the central nervous system (CNS), which is made up of the brain, spinal cord and optic nerves. The exact antigen — or target that the immune cells are sensitized to attack — remains unknown, which is why MS is considered by many experts to be 'immune-mediated' rather than 'autoimmune'.",
+          "Signs & Symptoms": {
+            "points": [
+              "Loss of balance",
+              "Muscle spasms",
+              "Numbness or abnormal sensation in any area",
+              "Problems moving arms or legs",
+              "Problems walking",
+              "Problems with coordination and making small movements",
+              "Tremor in one or more arms or legs",
+              "Weakness in one or more arms or legs"
+            ]
+          },
+          "Causes": {
+            "description": "Multiple sclerosis affects women more than men. The problem is mostly found between ages 20 and 40, but can occur at any age. Multiple sclerosis is caused by damage to the myelin sheath, the protective covering that surrounds nerve cells. Family history is another reason behind the onset of MS."
+          },
+          "Treatment": {
+            "points": [
+              "At Max Institute of Neurosciences, the goal of treatment is to control symptoms and help you maintain a normal quality of life through dedicated care and monitoring.",
+              "The treatment includes drugs for symptom control as well as preventive future attacks.",
+              "We have an exclusive Multiple Sclerosis Clinic that offers consultations, comprehensive diagnosis and therapies for the condition."
+            ]
+          }
+        },
+        "Parkinson’s Disease": {
+          "description": "Parkinson's disease (PD) is a chronic and progressive movement disorder, meaning that symptoms continue and worsen over time. The cause is unknown, and although there is presently no cure, there are treatment options such as medication and surgery to manage its symptoms. Parkinson’s involves the malfunction and death of vital nerve cells in the brain, called neurons.",
+          "Signs & Symptoms": {
+            "points": [
+              "Slow blinking (tremors involving half of the body)",
+              "Constipation",
+              "Difficulty swallowing",
+              "Drooling",
+              "Problems with balance and walking",
+              "No expression in the face (like you are wearing a mask)"
+            ]
+          },
+          "Causes": {
+            "description": "To date, despite decades of intensive study, the causes of Parkinson’s remain unknown. Many experts think that the disease is caused by a combination of genetic and environmental factors, which may vary from person to person. In some people, genetic factors may play a role; in others, illness, an environmental toxin or other event may contribute to PD. Scientists have identified aging as an important risk factor; there is a two to four percent risk for Parkinson’s among people over age 60, compared with one to two percent in the general population."
+          },
+          "Treatment": {
+            "description": "At Max Institute of Neurosciences, the goal of treatment is to control symptoms & make the patients able to carry out the daily living independently with us of various medicates & delaying progression.",
+            "points": [
+              "Our doctors and therapists work closely with the patient to find a treatment program that works best",
+              "Inj Botulinum toxin by experienced neurologists",
+              "Deep Brain Stimulation (DBS) is a surgical technique which helps ease symptoms of Parkinson’s in some cases. It involves placing electrical stimulators in specific areas of the brain that control movement."
+            ]
+          }
+        }
+      },
+      "team": {
+        "names": [
+          "Dr. Arun Saroha"
+        ],
+        "designations": [
+          "Head of Unit – Neurosurgery & Senior Consultant"
+        ],
+        "profiles": [
+          "coming-soon.html"
+        ]
+      },
+      "testimonials": [
+        "www.youtube.com/watch?v=E3wGoThUbNc&feature=plcp",
+        "www.youtube.com/v/5Dz_x1dtSoc&hl=en&fs=1"
+      ]
+    },
+    "Oncology <br>(Cancer Care)": {
+      "img": "img/specialties/oncology.svg",
+      "name": "Oncology (Cancer Care)",
+      "tag": "Max Institute of Oncology (Cancer Care) strives to provide the patients with expert treatment and care.",
+      "description": "Max Cancer Center is dedicated towards providing specialized care to its patients with consultation from experts from different specialities and departments. The Center follows international cancer treatment protocols to offer a cost-effective treatment that is holistic in approach.",
+      "treatments": {
+        "Breast Cancer": {
+          "description": "In this condition, cancer cells grow in the breast tissue. When these cancer cells grow uncontrollably, a mass of tissue forms leading to a tumor. If not treated in time, this condition can sometimes lead to malignant tumors that is life threatening. Most breast cancers start in tubes (ducts) that are meant to carry milk from the breast to the nipple. However, breast cancer can start in other parts of the breast as well.",
+          "Types": {
+            "points": [
+              "Ductal Carcinoma in Situ",
+              "Invasive Ductal Carcinoma",
+              "Triple Negative Breast Cancer",
+              "Inflammatory Breast Cancer",
+              "Metastatic Breast Cancer"
+            ]
+          },
+          "Signs and Symptoms": {
+            "description": "In its initial stage, breast cancer is hard to detect. This is why doctors suggest regular breast examination. Breast cancer symptoms may include:",
+            "points": [
+              "Breast lump or lump in the armpit that is hard and has uneven edges",
+              "Any change in the size, shape, or feel of the breast",
+              "Fluid coming out of the nipple",
+              "Bone pain",
+              "Breast pain or discomfort",
+              "Skin ulcers",
+              "Swelling of one arm",
+              "Weight loss"
+            ]
+          },
+          "Causes": {
+            "description": "There is no specific cause of breast cancer. However, most common causes include:",
+            "points": [
+              "Age and gender - Over a period of time, the chances of developing breast cancer increases",
+              "Family history of breast cancer",
+              "Genes",
+              "Menstrual cycle - Women got their periods early (before age 12) or went through menopause late (after age 55) have an increased risk for breast cancer",
+              "Childbirth - Women who give birth after the age of 30 are more likely to develop breast cancer",
+              "Alcohol use - Consuming more than 1-2 glasses increases your chances of breast cancer"
+            ]
+          },
+          "Treatment": {
+            "description": "The treatment for breast cancer depends on the type and stage of cancer. In general, breast cancer treatments may include:",
+            "points": [
+              "Chemotherapy - done to kill cancer cells",
+              "Radiation therapy - to destroy cancerous tissue. Radiation therapy involves the use of high energy X Rays that destroy cancer cells and shrink tumors. There are mainly three types of radiation therapy done at Max Cancer Centre to treat cancer – 3DCRT (three-dimensional conformal radiation therapy), IMRT, and IGRT (image-guided radiation therapy). At Max, we use the most advanced NOVALIS TX with EXACT-TRAC & ROBOTIC ON-BOARD IMAGER which is used to track tumors online to enable highly accurate treatments for moving tumors like lung, liver, prostate etc.",
+              "Surgery - is done to remove the cancerous tissue (it involves complete removal of breast lump and nearby structures). Standard surgeries are Mastectomy (Removal of the whole breast), Quadrantectomy (Removal of one quarter of the breast), and Lumpectomy (Removal of a small part of the breast). Reconstructive surgery can be done where breast contour can be restored to near normal with plastic surgery.",
+              "Hormonal therapy - is suggested to women with ER-positive breast cancer to block certain hormones that trigger cancer growth."
+            ]
+          }
+        },
+        "Lung Cancer": {
+          "description": "Lung cancer is a type of cancer developed in the lungs. When we breathe, air passes through our nose, down the windpipe, and into our lungs, where it passes through tubes called bronchi. Most lung cancers start in the cells of these tubes. Lung cancer is of two types:<ul><li>Non-small cell lung cancer (NSCLC)</li><li>Small cell lung cancer</li></ul>",
+          "Signs and Symptoms": {
+            "points": [
+              "Chest pain",
+              "Cough that doesn't go away",
+              "Coughing up blood",
+              "Fatigue",
+              "Loss of appetite",
+              "Shortness of breath",
+              "Wheezing"
+            ]
+          },
+          "Causes": {
+            "description": "Lung cancer is considered as the most severe type of cancer for both men and women. Cigarette smoking is found to be the major cause of lung cancer. Other causes may include:",
+            "points": [
+              "High levels of air pollution",
+              "Family history of lung cancer",
+              "Radon gas",
+              "Radiation therapy to the lungs",
+              "Secondhand smoke",
+              "Exposure to cancer-causing chemicals"
+            ]
+          },
+          "Treatment": {
+            "description": "Treatment for lung cancer depends on the type of cancer, its spread, and the patient's performance status. Common treatment options are surgery, chemotherapy, and radiation therapy.",
+            "points": [
+              "Surgery – Diagnostic surgery is done to obtain tissue for pathologic diagnosis of cancer. It includes Trucut Biopsy and incisional or excisional biopsy. In most cases of initial-stage non-small cell lung cancer, lobectomy (removal of a lobe of lung) is the most preferred surgical option. In rare cases, pneunmonectomy (removal of the entire lung) is done.",
+              "Chemotherapy – This option is often used when the cancer has spread outside the lungs.",
+              "Radiation Therapy – Radiotherapy is often done along with chemotherapy. Radiation therapy involves the use of high energy X Rays that destroy cancer cells and shrink tumors. There are mainly three types of radiation therapy done at Max Cancer Centre to treat cancer – 3DCRT (three-dimensional conformal radiation therapy), IMRT, and IGRT (image-guided radiation therapy). At Max, we use the most advanced NOVALIS TX with EXACT-TRAC & ROBOTIC ON-BOARD IMAGER which is used to track tumors online to enable highly accurate treatments for moving tumors like lung, liver, prostate etc."
+            ]
+          }
+        },
+        "Head & Neck Cancer": {
+          "description": "Head and neck cancer refers to a group of cancers that start in the lip, oral cavity (mouth), nasal cavity (inside the nose), paranasal sinuses, pharynx, and larynx. This type of cancer is ranked sixth amongst all cancers worldwide and comprises about 40% of all cancer in South East Asia, including India (source- Wikipedia). Head and neck cancer (HNC) is strongly related to certain environmental and lifestyle risk factors.",
+          "Signs and Symptoms": {
+            "points": [
+              "Mass in the neck",
+              "Neck pain",
+              "Bleeding from the mouth",
+              "Sinus congestion",
+              "Bad breath",
+              "Sore tongue",
+              "Painless ulcer or sores in the mouth",
+              "White, red or dark patches in the mouth",
+              "Earache",
+              "Unusual bleeding or numbness in the mouth",
+              "Enlarged lymph glands in the neck",
+              "Slurring of speech",
+              "Difficulty in swallowing food",
+              "Change in diet or weight loss"
+            ]
+          },
+          "Causes": {
+            "points": [
+              "Alcohol consumption",
+              "Tobacco chewing",
+              "Cigar smoking",
+              "Exposure to textile fibers",
+              "Poor dental and oral hygiene"
+            ]
+          },
+          "Treatment": {
+            "points": [
+              "Surgery – This is the most widely adopted treatment option for head and neck cancer. It is generally done to remove the cancerous cells completely. Surgery is generally not suggested if the cancer has spread to lymph nodes in the neck. Different surgeries are mandibulectomy, laryngectomy, microlaryngoscopy and laser surgey, parotidectomy, and thyroidectomy. All these surgeries aim at organ preservation and reconstruction.",
+              "Radiation Therapy – This option is generally done along with chemotherapy for larger tumors.",
+              "Max Healthcare has launched various medical programmes for cancer including:<ul><li>Cancer screening programmes</li><li>Cancer awareness/ education programmes</li><li>Cancer rehabilitation programmes (speech therapy, swallowing therapy)</li><li>Pain & palliative care programmes for the terminally ill</li></ul>"
+            ]
+          }
+        },
+        "Gastrointestinal Cancer": {
+          "description": "Gastrointestinal cancer is generally a group of cancers affecting organs like stomach, esophagus, gall bladder, bowels, rectum, anus, liver, and pancreas. At Max, a highly dedicated team of surgeons, radiation oncologists, medical oncologists, gastroenterologists, radiologists and pathologists work together to ensure the best possible treatment for patients.",
+          "Signs and Symptoms": {
+            "description": "Symptoms of gastrointestinal cancer vary, depending on the type of cancer. Symptoms may include:",
+            "points": [
+              "Abdominal pain and discomfort",
+              "Change in bowel habits",
+              "Rectal bleeding",
+              "Bloating",
+              "Loss of appetite",
+              "Nausea and vomiting",
+              "Unusual weight loss",
+              "Fatigue"
+            ]
+          },
+          "Causes": {
+            "points": [
+              "Smoking",
+              "Too much alcohol consumption",
+              "Age",
+              "High animal fat diet",
+              "High amount of salt intake",
+              "Chronic pancreatitis",
+              "Obesity"
+            ]
+          },
+          "Treatment": {
+            "description": "Treatment of this type of cancer depends on many factors such as type of cancer, stage and other general health factors. The two major treatment options for GI cancers are chemotherapy and radiation therapy.",
+            "points": [
+              "Radiation Therapy – At Max cancer centre, our doctors are some of the experts in their respective fields and have access to the most advanced technologies (3DCRT, IMRT, IGRT) available to provide for your best care. To treat gastrointestinal cancers, IMRT (intensity modulated radiation therapy) is widely used which enables high accuracy while ensuring minimal damage to other organs like liver, kidneys, and spinal cord. Moreover, IMRT allows doctors to deliver radiation to hard-to-reach areas."
+            ]
+          }
+        },
+        "Blood Cancer": {
+          "description": "As its name suggests, this type of cancer affects the production and function of your blood cells. This type of cancer starts in bone marrow which is the integral source of blood production. Stem cells in your bone marrow mature and develop into three types of blood cells: red blood cells, white blood cells, or platelets. In case of cancer, the blood production process is interrupted due to the growth of an abnormal type of blood cell. Blood cancer is of three types:<ul><li>Leukaemia</li><li>Lymphoma</li><li>Myeloma</li></ul>",
+          "Signs and Symptoms": {
+            "description": "",
+            "points": [
+              "Weakness, Fatigue, and Malaise",
+              "Shortness of breath",
+              "Minimal body strain results in bone fractures",
+              "Excessive or easy bruising",
+              "Bleeding gums",
+              "Recurrent infections or fever",
+              "Sweating of body during night",
+              "Weight loss",
+              "Frequent vomiting sensations",
+              "Anorexia",
+              "Lymph node (gland) enlargement",
+              "Lumps or abdominal distension due to enlarged abdominal organs",
+              "Abdominal pain, Bone pain and Back pain",
+              "Delirium and confusion",
+              "Abnormal bleeding in gums nose and cuts, which will lead to platelet reduction",
+              "Headaches along with visual difficulties",
+              "Occurrence of fine rashes on dark spots",
+              "Decreased urination and difficulty while urinating"
+            ]
+          },
+          "Causes": {
+            "points": [
+              "Aging",
+              "Family history",
+              "Family history",
+              "Certain infections"
+            ]
+          },
+          "Treatment": {
+            "description": "The primary objective of blood cancer treatment is the complete eradication of cancer. Several therapies for blood cancer are:",
+            "points": [
+              "Biological therapy to kill cancers",
+              "Chemotherapy",
+              "Bone Marrow Transplantation - This is typically a procedure to replace damaged or destroyed bone marrow with healthy bone marrow stem cells. Max Healthcare’s stat-of-the-art HEPA (High-Efficiency Particulate Air) filtered Bone Marrow Transplant unit offers stem cell transplantation for both benign and malignant conditions in children and adults.",
+              "The Department of Haemato-oncology is committed to improve the outlook for patients with myeloma by developing novel therapeutic approaches based on a sound knowledge of the biology of the disease.",
+              "A highly specialized team comprising of Haemato-oncologists & radiation oncologists provide state-of-the-art treatment for a variety of cancers like lymphomas, leukemia and multiple myelomas."
+            ]
+          }
+        },
+        "Cervical Cancer": {
+          "description": "This is a type of cancer that starts in the cervix, the lower part of the uterus (womb) that opens at the top of the vagina. Cervical cancer is the third most common type of cancer affecting the women. This cancer develops very slowly and begins as a precancerous condition called dysplasia. Almost all cervical cancers are caused by HPV (human papilloma virus). HPV is a common virus that is spread through sexual intercourse.",
+          "Signs and Symptoms": {
+            "description": "In its initial stage, there are no symptoms of cervical cancer. However, its symptoms include:",
+            "points": [
+              "Abnormal vaginal bleeding between periods and after intercourse",
+              "Continuous vaginal discharge",
+              "Back pain",
+              "Fatigue",
+              "Leg pain",
+              "Pelvic pain",
+              "Single swollen leg",
+              "Weight loss",
+              "Heavier periods that usual"
+            ]
+          },
+          "Causes": {
+            "description": "This type of cancer starts in the cells on the surface of the cervix. Its major causes are:",
+            "points": [
+              "Not getting the HPV vaccine",
+              "Poor economic status",
+              "Weakened immune system",
+              "Unhealthy sexual intercourse",
+              "Multiple sexual partners",
+              "Intercourse with people involved in high-risk sexual activities"
+            ]
+          },
+          "Treatment": {
+            "description": "The treatment of cervical cancer generally depends on various factors – cancer stage, size and shape of the tumor, woman's age and general health. In earlier days, cervical cancer was being cured by the removal of cancerous tissues. However, nowadays surgeries have undergone heavy advancements. Different types of treatment options are:",
+            "points": [
+              "Loop electrosurgical excision procedure (LEEP) – This procedure employs electricity to remove abnormal tissue.",
+              "Cryotherapy – The procedure involves freezing abnormal cells.",
+              "Laser therapy – This therapy uses light to destroy cancerous tissue.",
+              "Radical hysterectomy – It involves removal of the uterus and much of the surrounding tissues, including lymph nodes and the upper part of the vagina.",
+              "Pelvic exenteration – A rare type of surgery in which all of the organs of the pelvis, including the bladder and rectum, are removed.",
+              "Radiation therapy – Internal or external radiation may be used to treat cancer that has spread beyond the pelvis, or cancer that has returned.",
+              "Chemotherapy – It involves the use of certain drugs that kill cancer tissues."
+            ]
+          }
+        }
+      },
+      "team": {
+        "names": [
+          "Dr. Rudra Prasad Acharya",
+          "Dr. R.Ranga Rao",
+          "Dr. Anil Kumar Anand"
+        ],
+        "designations": [
+          "Head– Surgical Oncology & Senior Consultant",
+          "Director - Medical Oncology",
+          "Director - Radiation Oncology"
+        ],
+        "profiles": [
+          "coming-soon.html",
+          "coming-soon.html",
+          "coming-soon.html"
+        ]
+      },
+      "testimonials": [
+        "www.youtube.com/v/3OikQYodE4w?fs=1&amp;hl=en_US"
+      ]
+    },
+    "Orthopaedics &amp; <br>Joints Replacement": {
+      "img": "img/specialties/ortho.svg",
+      "name": "Orthopaedics & Joints Replacement",
+      "tag": "Max Department of Orthopaedics & Joint Replacement Surgery strives to provide the patients with expert treatment and care",
+      "description": "Max Institute of Orthopaedics & Joint Replacement Surgery believes in providing professional,low cost and state-of-the-art patient care. At the Institute, a patient is taken care of by multiple-specialties. Treatment at the Institute envelopes inpatient and outpatient services most efficiently.",
+      "treatments": {
+        "Arthritis": {
+          "description": "Arthritis is a form of joint disorder that involves inflammation of one or more joints. There are over 100 different forms of arthritis. The most common form, osteoarthritis (degenerative joint disease), is a result of trauma to the joint, infection of the joint, or age. Other arthritis forms are rheumatoid arthritis, psoriatic arthritis, and related autoimmune diseases.",
+          "Signs & Symptoms": {
+            "description": "The most common symptoms of arthritis are:",
+            "points": [
+              "Joint pain",
+              "Joint swelling",
+              "Redness of skin around a joint",
+              "Stiffness, especially in the morning",
+              "Limited movement"
+            ]
+          },
+          "Causes": {
+            "description": "Its major causes are:",
+            "points": [
+              "Infection, usually by bacteria or virus",
+              "Broken bone",
+              "An autoimmune disease",
+              "General “wear and tear” on joints"
+            ]
+          },
+          "Treatment": {
+            "description": "Arthritis in initial stages can be managed by medications. Anti-inflammatory drugs often suppress the pain and limit swelling. Once the joint cartilage has been damaged to an extent that any attempt to use it is very painful and X-rays confirm the severe destruction, surgical options need to be considered.<br>Surgery should be advised after a thorough general check-up of the patient. Various Surgical interventions are available for arthritis depending on the severity of patient's condition and the doctor's assessment. These include:",
+            "points": [
+              "Arthroscopic debridement",
+              "High Tibial Osteotomy",
+              "Total Knee Replacement",
+              "Unicondylar Knee Replacement",
+              "Total Hip Replacement"
+            ]
+          }
+        },
+        "Osteoporosis": {
+          "description": "Osteoporosis is a disease that weakens bones, causing loss of bone mass and strength, which further makes bones susceptible to sudden and unexpected fractures. The disease often progresses without any symptoms or pain. Generally, it is not discovered until weakened bones cause painful fractures. Most of these are fractures of the spine hip and wrist.<br>Osteoporosis is a condition most commonly found in women and that too women in their post-menopausal stage.",
+          "Signs & Symptoms": {
+            "description": "Osteoporosis itself has no symptoms; its main consequence is the increased risk of bone fractures. Its possible signs may include:",
+            "points": [
+              "Back pain",
+              "Stooped posture",
+              "Loss of height",
+              "Reduction in mobility",
+              "Increased risk of falling",
+              "Abnormal drop in BP on standing up"
+            ]
+          },
+          "Causes": {
+            "description": "The most common causes of osteoporosis are:",
+            "points": [
+              "Women, especially older than 60 years of age",
+              "Thyroid problems",
+              "Bone cancer",
+              "Certain genetic disorders",
+              "Cigarette smoking",
+              "Low amounts of calcium in diet"
+            ]
+          },
+          "Treatment": {
+            "description": "Lifestyle changes are an important aspect of treatment of osteoporosis. Besides, several medications and therapies are also used. Treatments for established osteoporosis include:",
+            "points": [
+              "Weight-bearing exercises",
+              "Calcium and Vitamin D supplements",
+              "Medications to improve bone density",
+              "Estrogen therapy"
+            ]
+          }
+        },
+        "Spondylitis": {
+          "description": "Spondylitis is one of the most common causes of back and neck pain and is essentially the result of an inflammation of the vertebral joints. The problem with detecting the condition is that it develops silently and comes to prominence once the condition has fully developed. Pain in spondylitis is usually concentrated around the cervical region of the neck, shoulder and lower spine with the instances and stings of pain flowing further downwards.<br>There are three main types of spondylitis:<ul><li>Cervical spondylitis - which affects the cervical spine, causing the pain to spread towards the back of the neck</li><li>Lumbar spondylitis – which causes the pain in the lumbar region</li><li>Ankylosing spondylitis - which is primarily a disease that affects the sacroiliac joints, causing stiffness in the lower back, hips, knees and chest</li></ul>",
+          "Treatment": {
+            "description": "A comprehensive treatment plan includes medication and exercise that can help in maintaining a normal upright posture and spinal mobility minimize the impact of hip and other joint manifestations, and reduce pain and stiffness. A full treatment plan includes the following:",
+            "points": [
+              "Exercise",
+              "Medications- Your doctor will prescribe the best medication option which will usually vary from case to case. Following are the medication categories:<ul><li>Non-steroidal anti-inflammatory drugs</li><li>Corticosteroid injections</li><li>Oral corticosteroids</li><li>Tumor necrosis factor inhibitors</li></ul>",
+              "Surgery"
+            ]
+          }
+        },
+        "Spinal Fractures and Paralysis": {
+          "description": "Spinal fractures are different than a broken arm or leg. A fracture or dislocation of a vertebra can cause bone fragments to pinch and damage the spinal nerves or spinal cord. Most spinal fractures occur from car accidents, falls, gunshot, or sports injuries.<br>Injuries can range from relatively mild ligament and muscle strains, to fractures and dislocations of the bony vertebrae, to debilitating spinal cord damage. Depending on how severe an injury is, one may experience pain, difficulty walking, or be unable to move arms or legs (paralysis). Many fractures heal with conservative treatment; however severe fractures may require surgery to realign the bones.",
+          "Treatment": {
+            "description": "Spinal fractures are emergencies that need expert management. Paralysis is a dreaded complication of these injuries. Care of spinal injured persons requires a full spectrum of psychologist, physiotherapists, occupational therapist, social workers and vocational counselors to optimise recovery. At Max Institute of Orthopaedics and Joint Replacement Surgery, the diagnostic workup is already in place comprising of:",
+            "points": [
+              "MRI",
+              "CT",
+              "Digital x-rays and ultrasound",
+              "We have state-of-the-art operation theatres available round the clock for the stabilization",
+              "Dedicated team of spine surgeons is available for providing modern care",
+              "State of the art physiotherapy department is available for the rehabilitation"
+            ]
+          }
+        },
+        "Disc Diseases": {
+          "description": "Just as no two people are same no two disc problems are identical. At Max Institute of Orthopaedics and Joint Replacement Surgery, it is our endeavour to help the patient opt for a procedure which is most apt for the condition and has a high benefit to risk ratio.",
+          "Treatment": {
+            "description": "Surgery may be recommended if the conservative treatment options do not provide relief.",
+            "points": [
+              "Physical therapy or Physiotherapy",
+              "Chiropractic manipulative therapy (CMT) and other chiropractic treatments",
+              "Osteopathic manipulation",
+              "Anti-inflammatory medications such as non-steroidal anti-inflammatory drugs, or spinal injections epidural often provide adequate relief from the troubling symptoms."
+            ]
+          }
+        },
+        "Back Pain": {
+          "description": "It is pain felt in the back that usually originates from the muscles, nerves, bones, joints or other structures in the spine. Back pain may have a sudden onset or can be a chronic pain; it can be constant or intermittent, stay in one place or radiate to other areas.",
+          "Causes": {
+            "description": "The potential sources and causes of back pain include:",
+            "points": [
+              "Spinal disc herniation",
+              "Degenerative disc disease",
+              "Spondylitis",
+              "Osteoarthritis",
+              "Lumbar spinal stenosis",
+              "Trauma",
+              "Cancer",
+              "Infection",
+              "Fractures",
+              "Inflammatory disease"
+            ]
+          },
+          "Treatment": {
+            "points": [
+              "Physiotherapy",
+              "Medications - Short term usage, medications prove effective",
+              "Exercises - Primarily back strengthening exercises under the guidance of a certified trainer, but always started once acute pain is controlled",
+              "Acupuncture",
+              "Surgery - Highly specialised orthopaedic surgeons, rheumatologists and physiotherapists use computer assisted orthopaedic surgery techniques which are as follows:<ul><li>Joint Replacement Surgeries - The joint replacement team provides state-of-the-art surgical care employing up-to-date techniques for the treatment.</li><li>Spine Surgery - Our dedicated spine clinic offers conservative and operative management for a wide range of spinal disorders, making use of state-of-the-art equipment like operating microscopes, computer-navigation, etc.</li><li>Traumatic Orthopaedic Management - We are equipped with:<ul><li>Three-dimensional digitised fluoroscopic intra-operative imaging, coupled with professional software support services</li><li>Multi-functional multi-optional fracture tables (permitting minimal incision technique fixation for all possible fractures)</li><li>The latest orthopaedic implant and instrumentation, including biodegradable implants</li></ul></li></ul>"
+            ]
+          }
+        }
+      },
+      "team": {
+        "names": [
+          "Dr S K S Marya",
+          "Dr H N Bajaj",
+          "Dr Sameer Anand"
+        ],
+        "designations": [
+          "Vice Chairman on the Max Healthcare Board of Directors & Chairman - Orthopaedics",
+          "Head - Ortho Spine Surgery & Senior Consultant - Orthopaedics",
+          "Senior Consultant"
+        ],
+        "profiles": [
+          "coming-soon.html",
+          "coming-soon.html",
+          "coming-soon.html"
+        ]
+      },
+      "testimonials": [
+        "www.youtube.com/v/8jH3CvTe6vg&hl=en&fs=1"
+      ]
+    }
+  },
+  "countries": {
+    "kenya": [
+      "Baragoi",
+      "Bungoma",
+      "Busia",
+      "Butere",
+      "Dadaab",
+      "Diani Beach",
+      "Eldoret",
+      "Emali",
+      "Embu",
+      "Garissa",
+      "Gede",
+      "Hola",
+      "Homa Bay",
+      "Isiolo",
+      "Kitui",
+      "Kibwezi",
+      "Makindu",
+      "Wote",
+      "Mutomo",
+      "Kajiado",
+      "Kakamega",
+      "Kakuma",
+      "Kapenguria",
+      "Kericho",
+      "Kiambu",
+      "Kilifi",
+      "Kisii",
+      "Kisumu",
+      "Kitale",
+      "Lamu",
+      "Langata",
+      "Litein",
+      "Lodwar",
+      "Lokichoggio",
+      "Londiani",
+      "Loyangalani",
+      "Machakos",
+      "Malindi",
+      "Mandera",
+      "Maralal",
+      "Marsabit",
+      "Meru",
+      "Mombasa",
+      "Moyale",
+      "Mumias",
+      "Muranga",
+      "Nairobi",
+      "Naivasha",
+      "Nakuru",
+      "Namanga",
+      "Nanyuki",
+      "Naro Moru",
+      "Narok",
+      "Nyahururu",
+      "Nyeri",
+      "Ruiru",
+      "Shimoni",
+      "Takaungu",
+      "Thika",
+      "Vihiga",
+      "Voi",
+      "Wajir",
+      "Watamu",
+      "Webuye",
+      "Wundanyi"
+    ],
+    "nigeria": []
+  },
+  "testimonials": [
+    {
+      "name": "Davichards Mandizvidza",
+      "treatment": "Angioplasty",
+      "description": "Reception at Max: Good escort provided from Airport. Very good & warm welcome at Max healthcare. Immediate attention was given on arrival to check on patients reaction to long trip from zimbabwe and neat accomodation provided for partner. Treatment: 2nd day treatment and tests run ascertain condition of patient and compare with early diagnosis from Zimbabwe doctors. Pin point identification was esenctial to determine exact problem High level of Professionalism and skill was exhibited by all medical staff. I knew i was in safe hands, to see the procedure being performed while i was alert is awesome. confidence was displayed. ICU 24hrs care was provided."
+    },
+    {
+      "name": "Jeremy Benjamin Lloyd Bond",
+      "treatment": "Pulmonary Thromboembolism",
+      "description": "I would like to express my thanks to the International Patient Services team that looked after me on my recent stay at the Max Hospital saket.<br>Everyone on the staff played their part as a first class team and I felt safe and reassured that I could put my trust in you all.<br>It was a good lesson to me and I am so appreciative now of my good health.<br>Please can you pass on my thanks to everyone."
+    },
+    {
+      "name": "Wayne Steinard",
+      "treatment": "Triple Bypass",
+      "description": "Surfing through the Max Healthcare website, Mr. Steinard found that the best cardiac care at the best possible prices were available in India and Max was at the forefront of providing the best healthcare. He made the journey to India for his triple bypass at Max Institute of Cardiac & Vascular Sciences and was touched by the care he received from all the staff and specialists at Max Healthcare."
+    },
+    {
+      "name": "Suasen",
+      "treatment": "In-Vitro Fertilization",
+      "description": "A couple from Iraq came to Max Multi Speciality Centre, India with an infertility problem, they were scared they might get the same response as they've been getting from other doctors back home. However, our Infertility Expert Dr. Banga's expertise gave the family a ray of hope & this couple went back home happy & satisfied."
+    },
+    {
+      "name": "S.S.M",
+      "treatment": "In-Vitro Fertilization",
+      "description": "It is unbelievable how Dr Tanya Buckshee Rohatgi is radiating with such a warm and powerful attraction in these amazing days of my treatments. During the treatment, I always felt I’m the only one patient of hers, because she treated us so special and extraordinarily. She was always available for us physically or over the phone. Nice pretty and lovable in every sense of word. As me and my husband said bare of any sentiment the word ‘Love you’ isn't enough at this moment for her. A new word should be invented to express our emotions! What we can say is: thank you for everything. Me and My Husband came from London UK and we were trying to have baby for 5 years before we meet her. After 2 failed IVF in London Hammersmith Hospital, I had lost all my hope and emotionally disturbed. Now I'm pregnant and we know we succeeded because of your love and care. I will never forget what she have done for us. Once again, I would like to thank you and Dr. Surian Singhal, Dr. Manish , Sister Sophia , Sister Nice and Tanmana Metra. Mrs S S & Mr H O M"
+    },
+    {
+      "name": "J.M.",
+      "treatment": "In-Vitro Fertilization",
+      "description": "Dear Madam, hope you are doing well and your nice family is ok. I am J.M. from Afghanistan and I went through the IVF procedure with you in MAX on 13 March 2012. Thank god I am five months pregnant now. I and my family are very thankful to you and god bless you."
+    },
+    {
+      "name": "John",
+      "treatment": "Ano Fistula",
+      "description": "My son had complex ano fistula. We were fortunate we found Dr. Chowbey on the web and he accepted John as his patient. When we arrived at Max Super Specialty Hospital, Saket on Monday, we were well guided by Ms. Aenu Batra, Executive Assistant to Dr. Chowbey. John had his surgery on Tuesday, and by Sunday morning he was well enough to sit in a plane on a 5-hour trip to Singapore. The facilities of Max Hospital Saket is world-class. But as a famous general once said, 'battles are fought with tanks but won by men'. Dr. Chowbey's skills need no introduction but what impressed me more is the commitment of the team of people, and the human touch that is everywhere. And this starts from the top! Kudos to the management of Max Specialty and to Dr. Pradeep Chowbey and Ms. Aenu Batra for leading their dedicated team!"
+    },
+    {
+      "name": "Tanveer Alam",
+      "treatment": "Renal Transplant",
+      "description": "The services provided was very good and the hospitality was excellent specially the ICU services was exceptionally good. We are very much satisfied with all the doctors and the supporting staff who helped us during the treatment. So overall I was satisfied with the whole treatment in Max Hospital, Patparganj. "
+    },
+    {
+      "name": "Sawsan Mohammed Mahmood Al Salim",
+      "treatment": "Cervical & Lumber Spine Surgery",
+      "description": "I was suffering from Cervical & Lumber Spine and my surgery was done at Max Hospital, Patparganj by Dr. Ashish Shrivastav, Neuro Surgery department. I am very happy of the hospital services which are not available at my country. The people of the Hospital are very much caring and I really did not find any problem during my stay. I really appreciate the Hospital for keeping me & my family updating of my small & big, medical & non-medical things happened during the stay. It is very much clean & hygienic too.<br>Thank You Max,<br>Thank You So Much."
+    },
+    {
+      "name": "Rendell Nugent",
+      "treatment": "Microdisectomy",
+      "description": "If you are looking at this video and thinking whether you should be treated at Max Healthcare, then I totally recommend it. The genuine care and affection we got at Max Healthcare is just unmatched! It was very reassuring for my family to know that while I was to go through a surgery, I was being looked after so well. It brings down the stress level so much. And in less than a week, I am feeling free. The Staff is great and the rooms are immaculate. We were in fact treated like guests from the moment we stepped-in. Good Luck Max Healthcare!"
+    },
+    {
+      "name": "Halima Srivastava",
+      "treatment": "Fusion at L4/5",
+      "description": "On 4 September 2010 while Touring Delhi I had a slip disc & admitted to Max Hospital by my father-in-law Dr G S Srivastava who referred me to Dr B Walia I was transferred from Haus Khas by Max Hospital Ambulance at 5.30 am though the ride was not comfortable but once at max things moved very fast at 6.55 am the investigations were done then the MRI and after all the formalities completed on 6 September Dr Walia operated on me The operation was very successful and I was discharged on 7 September Returned back for removal of stitches on 16/9/10 & traveled back to Australia via Abu Dhabi on 12/10/10 which was a very long and tiring flight but Dr Walia had advised me medication which was very helpful during the flight I am now back to my normal routine and carrying on my daily life without any trouble I am very grateful to Dr Walia & his superb team who looked after me and gave back my life in just 4 days."
+    },
+    {
+      "name": "Charles Mbogo",
+      "treatment": "Spinal Instrumentation",
+      "description": "Dear Dr. Walia, Greetings from Kenya. I am fine and well and I can assure you that I feel completely healed. I am still doing some exercises to keep fit. I have been able to travel outside the country on 2 occassions since I left the hospital to attend meetings and I can assure you that I have been ok. Before I left the hospital you had promised to give me a video showing the insertion of the instrument and its operations -- is it possible to get a copy."
+    },
+    {
+      "name": "Levi & Ann Mast",
+      "treatment": "Neurosurgery",
+      "description": "Greetings, from a cool Montezuma, Ga. U.S.A. We arrived home safely about midnight Thurs. Feb. 8th. I actually tolerated the 16 hr flight better then I had feared. I experienced no unusual pain, so far I am pleased with my progress. Once again Thank You very much for your staff, Max Hospital and your effort. We will always be grateful for the excellent care and attention we received."
+    },
+    {
+      "name": "Nirmala Singh",
+      "treatment": "Operation for Slipped Disc",
+      "description": "Ms. Singh suffered a slipped disc that resulted in searing pain in her back. She approached Max Institute of Neurosciences while she was down in India from her native Sweden and was operated upon after the tests were conducted. The successful operation and the physiotherapy at Max helped her make a quick and successful recovery."
+    },
+    {
+      "name": "Marc James Dwelis",
+      "treatment": "Neurosurgery",
+      "description": "This marks the one year anniversary of my L-5 S-1 stabilization with BMP. Just wanted to drop you a note of thanks again. As you may remember my surgery has yielded a perfect result. Not only was the operation a total success but my life has changed dramatically in the last year. All pre-op symptoms are gone. Period. Of course I have quit all meds. I am in better condition physically than I have been in for a decade or more. At 50 I am preparing for my second life with much enthusiasm. I can say without any doubt that traveling to India for this surgery was the single most important decision I have ever made (next to my darling wife of course) and would do it all again. I owe all who helped me a great debt of gratitude which I can never repay. You have effected me to my core. The old Marc was left in India without regret. I have told my story to many in hopes they may experience similar life saving care. They may not come but I spread the good news none the less. I have only seen my doctor once in the last year. There has been no need. At some point I would like to see a new x-ray to see what my spine looks like now but in my heart it seems insignificant next to the way I feel. It is impossible for me to tell I have parts in there. Great job. I thank you, My family thanks you and I am certain karma will reward you for the rest of your lives. I shall never forget!"
+    },
+    {
+      "name": "Murthy Kanthan Pant",
+      "treatment": "Cancer",
+      "description": "Mr. Murthy Kanthan Pant from Nepal, gives his testimonial about Max Hospital's courteous and knowledgeable staff and latest treatments. He is now free of cancer. "
+    },
+    {
+      "name": "Ibrahim Monita Garba",
+      "treatment": "Unilateral Total Knee Replacement and Disarticulation of Wrist and Elbow",
+      "description": "I am patient of Max Hospital, Patparganj from Nigeria. I have taken the treatment for my knee under Dr. BS Murthy. I have a good experience with the doctors, they are so caring and there services are excellent. I have no hesitation in recommending to someone to the hospital who need a first class services. I will appreciate the services of House Keeping, Nursing, Security and the International team. I will also appreciate the price of the treatment which is very moderate."
+    },
+    {
+      "name": "Rosina Usatch",
+      "treatment": "Orthopaedic Surgery",
+      "description": "Faced with severe orthopaedic problems in her lower limbs, Ms. Usatch came to Max Healthcare following recommendations from various quarters in her hometown in Canada. Her operation was conducted by the specialists from the Max Institute of Othopaedics and the pain management and care that followed helped her make a quick recovery."
+    }
+  ]
+}
